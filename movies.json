@@ -68,5 +68,50 @@
             "likes": 812,
             "dislikes": 101,
             "posterindex": 0
+      },
+
+      {
+            "title": "Scott Pilgrim vs. the World",
+            "iscore": 7.6,
+            "rating": "PG-13",
+            "runtime": 111,
+            "released": [2010, 8, 13],
+            "country": "Canada",
+            "posters": ["img/sp1.png", "img/sp2.png"],
+            "imdb": "https://www.imdb.com/title/tt0446029/",
+            "website": "https://oni-press.myshopify.com/collections/scott-pilgrim",
+            "likes": 101,
+            "dislikes": 9,
+            "posterindex": 0
+      },
+
+      {
+            "title": "Taxi Driver",
+            "iscore": 8.2,
+            "rating": "R",
+            "runtime": 114,
+            "released": [1976, 2, 8],
+            "country": "USA",
+            "posters": ["img/td1.png", "img/td2.png"],
+            "imdb": "https://www.imdb.com/title/tt0075314/",
+            "website": "https://www.sonypictures.com/movies/taxidriver",
+            "likes": 554,
+            "dislikes": 3,
+            "posterindex": 0
+      },
+
+      {
+            "title": "Smokey and the Bandit",
+            "iscore": 7.0,
+            "rating": "PG",
+            "runtime": 96,
+            "released": [1977, 5, 27],
+            "country": "USA",
+            "posters": ["img/sb1.png", "img/sb2.png"],
+            "imdb": "https://www.imdb.com/title/tt0076729/",
+            "website": "https://banditandbuford.com/",
+            "likes": 1000,
+            "dislikes": 89,
+            "posterindex": 0
       }
 ]
